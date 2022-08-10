@@ -1,0 +1,79 @@
+
+@font-face {
+    font-family: 'Ka';
+    src: url(./Nofex.otf);
+}
+
+@font-face {
+    font-family: 'a';
+    src: url(./Vanosky.otf);
+}
+
+@font-face {
+    font-family: 'll';
+    src: url(./Semind.otf);
+}
+
+    
+.men{
+    font-family: a;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 15px;
+font-size: 20px;
+padding: 20px 25px;
+}
+
+.men:hover{
+background-color: white;
+color: black;
+
+}
+
+.img{
+
+    display: block;
+    width: 250px;
+    margin: auto;
+}
+.a{
+    display: block;
+font-family: ll;
+text-align: center;
+padding: 0px 10px;
+font-size: 15px
+}
+.b{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+display: block;
+padding: 20px 1px;
+background-color: greenyellow;
+border-radius: 15px;
+
+}
+.b:hover{
+    color: greenyellow;
+    background-color: white;
+}
+.v{
+    margin: 30px 0px;
+    border-radius: 15px;
+    box-shadow: rgb(49, 255, 8) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    width: 400px;
+    height: 570px;
+}
+.ba{
+
+    text-align: center;
+    font-size: 25px;
+
+}
+.n{
+font-family: Ka;
+    text-align: center;
+    font-size: 20px;
+}
